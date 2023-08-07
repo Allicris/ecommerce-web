@@ -41,8 +41,8 @@ THEN I am able to successfully create, update, and delete data in my database
 I would like the Category data to be expanded since e-commerce sites usually have a lot of different options when it comes to products. I would also like to see how different products and their tags can be put into a Sale Category.
 
 ## Screenshots
-![my screenshot](../ecommerce-web/images/Screen%20Shot%202023-08-07%20at%207.16.44%20AM.png)
-![my second screenshot](../ecommerce-web/images/Screen%20Shot%202023-08-07%20at%207.17.11%20AM.png)
+![Screen Shot 2023-08-07 at 7.16.44 AM]
+![Screen Shot 2023-08-07 at 7.17.11 AM]
 
 ## Walkthrough Video
 https://drive.google.com/file/d/1CNPw5eG4IDesUhiI4rAobfxCJIYNa3-8/view
