@@ -40,10 +40,6 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Future Development
 I would like the Category data to be expanded since e-commerce sites usually have a lot of different options when it comes to products. I would also like to see how different products and their tags can be put into a Sale Category.
 
-## Screenshots
-![Screen Shot 2023-08-07 at 7.16.44 AM]
-![Screen Shot 2023-08-07 at 7.17.11 AM]
-
 ## Walkthrough Video
 https://drive.google.com/file/d/1CNPw5eG4IDesUhiI4rAobfxCJIYNa3-8/view
 
